@@ -1,0 +1,596 @@
+{
+    "937823048": [
+        {
+            "user": "QuellaDaiMilleUsername",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:34:42.407226",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1193209265": [
+        {
+            "user": "AlehciMichelA",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:25.468476",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "5057408412": [
+        {
+            "user": "GepeGis",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:32.262466",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "939677489": [
+        {
+            "user": "Paolo",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:33:03.608476",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1557611895": [
+        {
+            "user": "Francesco",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:35:42.101118",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1147495175": [
+        {
+            "user": "Stefano",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:18.593308",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "5046598748": [
+        {
+            "user": "tommydegio",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:32:47.395593",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1038980535": [
+        {
+            "user": "Michele",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:29:45.736134",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "6221265259": [
+        {
+            "user": "Monica",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:21.342397",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "2006168043": [
+        {
+            "user": "Alessandro",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:32:39.282869",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "6871116204": [
+        {
+            "user": "Paolo",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:32:06.541443",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1382968486": [
+        {
+            "user": "folliaaaa",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:33:07.443176",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "6059612060": [
+        {
+            "user": "Anna",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:47.653158",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1022328175": [
+        {
+            "user": "Luca",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:28.343633",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "6837091050": [
+        {
+            "user": "CRISTINA",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:33:25.762585",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "6225447751": [
+        {
+            "user": "Adele",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:33:57.288588",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1067353171": [
+        {
+            "user": "Matteo",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:32:33.857354",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "5266941437": [
+        {
+            "user": "Filippo",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:25.318441",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "601524389": [
+        {
+            "user": "Danigrassi",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:30:56.797562",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "28318558": [
+        {
+            "user": "OllyConte",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:31:45.826728",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1111617822": [
+        {
+            "user": "Federica",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:32:12.137744",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "5863862943": [
+        {
+            "user": "Silvi",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:33:12.369802",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "309656304": [
+        {
+            "user": "Ivano68",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:32:29.767067",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1627647310": [
+        {
+            "user": "Alessandro",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:33:27.709195",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "6711022173": [
+        {
+            "user": "Maria Vittoria",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-14 21:35:08.070311",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "5047798659": [
+        {
+            "user": "justL3lL0",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-15 19:46:29.872588",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ],
+    "1039428840": [
+        {
+            "user": "Jack",
+            "notifiche": "True",
+            "sesso": "maschile",
+            "status": "offline",
+            "ultimo_messaggio": "2024-01-15 09:39:44.753162",
+            "bot": "Astro",
+            "operazioni": {
+                "True": {
+                    "OPERAZIONE": "attivato",
+                    "INVERSA": "disattivarle",
+                    "COMANDO": "/setnotifyoff"
+                },
+                "False": {
+                    "OPERAZIONE": "disattivato",
+                    "INVERSA": "attivarle",
+                    "COMANDO": "/setnotifyon"
+                }
+            }
+        }
+    ]
+}

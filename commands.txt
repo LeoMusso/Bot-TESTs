@@ -1,0 +1,19 @@
+### BOT PRINCIPALE
+start - Inizia la conversazione
+hello - Saluta il BOT
+fumagazzi - Orologi per i bravi ragazzi
+setastro - Parla con Astro
+setnebula - Parla con Nebula
+statusnotify - Ottieni lo stato delle tue notifiche
+setnotifyon - Accendi le notifiche per restare aggiornato
+setnotifyoff - Spegni le notifiche
+
+### BOT ERRRORI
+vogliopartecipare - Iscriviti alla beta di informati!
+getuseronline - Guarda il numero di utenti attivi in questo momento sul BOT
+setblockon - Porta il BOT principale offline
+setblockoff - Porta il BOT principale online
+getstatusblock - Ottieni lo stato del blocco al BOT principale
+setbetateston - Porta il BOT in modalità beta
+setbetatestoff - Disattiva la modalita beta sul BOT principale
+getstatusbeta - Ottieni lo stato della beta sul BOT principale
