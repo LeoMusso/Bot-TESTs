@@ -8,6 +8,8 @@ from error_bot import ErrorBot
 
 sys = Sistema()
 
+# giusto per il commit
+
 main_bot = telebot.TeleBot(sys.token_bot_test, parse_mode=None)
 error_bot = telebot.TeleBot(sys.token_bot_errori, parse_mode=None)
 answerBot = InformatiBOT()
