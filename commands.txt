@@ -17,3 +17,5 @@ getstatusblock - Ottieni lo stato del blocco al BOT principale
 setbetateston - Porta il BOT in modalità beta
 setbetatestoff - Disattiva la modalita beta sul BOT principale
 getstatusbeta - Ottieni lo stato della beta sul BOT principale
+
+# COMANDI PER THREAD E SINCRONIZZAZIONE IMPOSTAZIONI BOT
