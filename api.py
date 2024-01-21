@@ -1,5 +1,5 @@
 import requests, threading
-from path_manager import PathManager
+from path_manager_test import PathManager
 
 class UrlEndpoint():
     # url di base
