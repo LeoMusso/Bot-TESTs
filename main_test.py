@@ -1,8 +1,8 @@
 from email import message
 import telebot, json, os
 from api import InformatiAPI
-from set_up_test import Sistema
-from path_manager_test import PathManager
+from set_up import Sistema
+from path_manager import PathManager
 from answer_bot_test import InformatiBOT
 from error_bot import ErrorBot
 
@@ -16,8 +16,6 @@ answerBot = InformatiBOT()
 errBot = ErrorBot()
 
 ######################################################################################
-# TODO: Costruzione THREAD prima del polling x passare l'oggetto bot                 #
-# TODO: Implementazione comando /statusnotify per conoscere lo stato delle notifiche #
 # TODO: Implementazione blocco per fase di test                                      #
 ######################################################################################
 
@@ -153,14 +151,11 @@ def set_notify(message):
     else:
         response = 'Hai OPERAZIONE le notifiche correttamente! Per INVERSA basta inviare il comando COMANDO'
         notify = "True"
-        if message.text != "/setnotifyoff" and message.text != "/setnotifyon":
-            # TODO: Ottenere lo stato delle modifiche
-            
+        if message.text != "/setnotifyoff" and message.text != "/setnotifyon":            
             if sys.json_utenti[str(message.from_user.id)][0]["notifiche"] == "True":
                 response = "Hey, le tue notifiche sono attive!\nNon appena arriverà il momento ti aggiornerò con tutti i bellissimi eventi di inFORMATI!🤩\nNel mentre che aspetti potresti seguire [la mia pagina instagram](https://www.instagram.com/informati.perbene/)!😎"
             else:
                 response = "Hey, le tue notifiche non sono attive!\nRimedia subito mandando il comando /setnotifyon, oppure puoi seguire [la mia pagina instagram](https://www.instagram.com/informati.perbene/) per rimanere sempre aggiornato!😎"
-            
             main_bot.send_message(message.chat.id, response, parse_mode='Markdown')
         else:
             if message.text == "/setnotifyoff":

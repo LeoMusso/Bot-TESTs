@@ -1,6 +1,6 @@
 import spacy, json, os
-from set_up_test import Sistema
-from path_manager_test import PathManager
+from set_up import Sistema
+from path_manager import PathManager
 
 
 class InformatiBOT():

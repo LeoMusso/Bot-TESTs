@@ -552,11 +552,11 @@
     "5047798659": [
         {
             "user": "justL3lL0",
-            "notifiche": "True",
+            "notifiche": "False",
             "sesso": "maschile",
             "status": "offline",
-            "ultimo_messaggio": "2024-01-15 19:46:29.872588",
-            "bot": "Astro",
+            "ultimo_messaggio": "2024-01-23 15:34:08.835463",
+            "bot": "Nebula",
             "operazioni": {
                 "True": {
                     "OPERAZIONE": "attivato",

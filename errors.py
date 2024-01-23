@@ -1,8 +1,7 @@
-import telebot, json
-from set_up import Sistema, TimerThread
+import telebot
+from set_up import Sistema
 from error_bot import ErrorBot
 from path_manager import PathManager
-from api import InformatiAPI, UrlEndpoint, ThreaDownloadJson
 
 sys = Sistema()
 

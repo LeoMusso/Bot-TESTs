@@ -1,4 +1,4 @@
-from path_manager_test import PathManager
+from path_manager import PathManager
 from dotenv import load_dotenv
 import os, json, threading
 from api import InformatiAPI
