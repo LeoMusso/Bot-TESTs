@@ -1,0 +1,18 @@
+{
+    "main_bot": {
+        "/ciao": 0,
+        "/start": 0,
+        "/hello": 0,
+        "/fumagazzi": 1
+    },
+    "error_bot": {
+        "/setsignupon": "Ma pensavi veramente che ti avremmo lasciato attivare il sistema di iscrizione al bot??\nRitenta magari sarai fortunato!",
+        "/setsignupoff": "Ma pensavi veramente che ti avremmo lasciato disattivare il sistema di iscrizione al bot??\nRitenta magari sarai fortunato!",
+        "/setblockon": "Ma pensavi veramente che ti avremmo lasciato mettere il bot offline??\nRitenta magari sarai fortunato!",
+        "/setblockoff": "Per quanto ci attizzi l'idea che tu voglia pubblicare il bot siamo costretti a non lasciartelo fare.",
+        "/getstatusblock": "Ma cosa te ne frega!\nDai non puoi mandare questi comandi susu!",
+        "/setbetateston": "Ma ti pare che ti facciamo portare in modalità beta\nDai riprova, magari la prossima volta c'è la farai!",
+        "/setbetatestoff": "Per quanto ci attizzi l'idea che tu voglia pubblicare il bot siamo costretti a non lasciartelo fare!",
+        "/getstatusbeta": "Ma cosa te ne frega!\nDai non puoi mandare questi comandi susu!"
+    }
+}
