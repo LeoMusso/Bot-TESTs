@@ -1,0 +1,33 @@
+{"intents": [
+		{"tag":"salutare",
+		 "patterns": ["Ciao","Salve","Buongiorno","Buonasera","Buon pomeriggio","Saluti","Hey","Ehilà","Hello","Hi","Salutissimi","Salutoni","Ti saluto","Bella"],
+		 "responses": ["Ciao anche a te", "Salve, come stai?","Ciao, felice di vederti","Salve","Buogiorno anche a te","Buonasera anche a te","Piacere mio","Hey","Ehilà"],
+		 "context_set": ""
+		},
+		{"tag": "arrivederci",
+		 "patterns": ["Arrivederci","A dopo","Ci vediamo","A presto","Fino alla prossima volta","Addio","Ciao ciao","Vado ci sentiamo","Ci risentiamo","Mi congedo, ci vediamo","Alla prossima"],
+		 "responses": ["Ci vediamo","A presto", "Felice di averti rivisto","Arrivederci","Ciao ciao","Alla prossima","E' stato un piacere"],
+		 "context_set" : ""
+		},
+		{"tag": "ringraziamenti",
+		 "patterns": ["Grazie mille","Ti sono grato","Grazie di cuore","Grazie infinite","Ti ringrazio tanto","Non so come ringraziarti","Grazie devvero tanto","Ti sono riconscente","Grazie di tutto","Grazie per essere stato così gentile","Sei stato di grande aiuto"],
+		 "responses": ["Felice di averti aiutato","Grazie a te","Di niente","Figurati","Prego","Di nulla","Non c'è di che","E' stato un piacere","Sono qui per questo","Sempre a disposizione"],
+		 "context_set": ""
+		},
+		{"tag": "stare",
+		 "patterns": ["Come stai?","Come va?","Tutto bene?","Come te la passi?","Come ti trovi?","Come procede la giornata?","Come stanno andando le cose?","Come va la vita?","Stai bene?","Come te la cavi?","Come ti senti oggi?","Tutto a posto?"],
+		 "responses": ["Bene, grazie! E tu?","Tutto tranquillo, grazie!","Sto abbastanza bene, e tu?","Tutto bene","Non c'è male, e tu come stai?","Bene tutto sotto controllo","Non posso lamentarmi, grazie","Così così ma va bene","Mi trovo piuttosto bene","Grazie, sto bene, e tu?","Tiruma avanti via"],
+		 "context_set": ""
+		},
+		{"tag": "risposta_stare",
+		 "patterns": ["Tutto bene","Io bene grazie","Abbastanza bene","Non c'è male","Non posso lamentarmi, grazie","Tutto tranquillo, grazie!","Tiruma avanti"],
+		 "responses": ["Ok","Come posso esserti di aiuto","C'è qualcosa in vui posso assisterti?","Posso fare qualcosa per te?","Hai bisogno di supporto in qualcosa?","In che modo posso aiutarti?","Cosa ti serve?","Hai delle richieste alla quale posso rispondere?","Come posso rendere la tua giornata più semplice?","Posso darti un aiuto con qualcosa?"],
+		 "context_set": ""
+		},
+		{"tag": "risposta_aiuto",
+		 "patterns": ["Mi puoi dire di più su INFORMATI?","Posso chiederti qualche informazioni riguardo alla piattaforma INFORMATI?","Hai qualche dettaglio su INFORMATI?","Potresti spiegarmi di più sulla piattaforma INFORMATI?","Ho bisogno di informazioni su INFORMATI","Cosa puoi dirmi riguardo a INFORMATI?","Vorrei saperne di più?","Puoi darmi qualche dettaglio su INFORMATI?","Vorrei avere maggiori dettagli sulla piattaforma INFORMATI?"],
+		 "responses": ["INFORMATI è una piattaforma per la gestione e la creazione di eventi per chiunque. E' accessibile via Web ma anche attraverso i principali social media come Facebook,Instangram e TikTok.","La piattaforma INFORMATI è accessibile attraverso i principali social media, ma possiede in ogni casi il suo sito Web visitabile da tutti e da qualunque dispositivo"],
+		 "context_set": ""
+		}
+	]	
+}
