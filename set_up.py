@@ -48,6 +48,8 @@ class Sistema():
         # estraggo le impostazioni
         self.json_impostazioni = path_manager.get_json(path_manager.path_impostazioni_bot)
         
+        # TODO: Decommentare --> test aggiornamento python 
+
         self.token_bot_principale = os.environ.get("TOKEN_BOT_INFORMATI")
         self.token_bot_errori = os.environ.get("TOKEN_BOT_ERRORI")
         self.token_bot_test = os.environ.get("TOKEN_BOT_TEST")
