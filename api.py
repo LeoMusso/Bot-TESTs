@@ -18,6 +18,9 @@ class UrlEndpoint():
     get_traduzioni_aggiornate_endpoint = "/api/traduzioni.php"
     get_utenti_registrati_endpoint = "/api/get_users_signed.php"
 
+    # endpoint per info sugli eventi
+    get_utenti_totali_evento_endpoint = "/api/get_total_subscribers_event.php"
+
 class InformatiAPI():
     
     api = UrlEndpoint()
@@ -78,6 +81,18 @@ class InformatiAPI():
             print(f"Errore nella richiesta: {response.status_code}")
             return response.text
 
+    def get_count_user(self, id_telegram):
+
+        url_api = self.api.base_url + self.api.get_utenti_totali_evento_endpoint
+
+        params = {
+            "id_telegram":id_telegram
+        }
+
+        response = requests.post(url_api, params)
+
+        if response.status_code != 200:
+            return "error"
 class ThreaDownloadJson(threading.Thread):
 
     def __init__(self, api, endpoint):

@@ -2,7 +2,7 @@ import os, json
 
 class PathManager():
     # percorsi possibili dove potrebbero trovarsi i file 😅
-    cartelle_finali = ["\\applicazione\\bot", "\\inFORMATI\\bot", "\\bot","\\_bot\\bot"]
+    cartelle_finali = ["\\_bot","\\applicazione\\bot", "\\inFORMATI\\bot", "\\bot","\\_bot\\bot"]
 
     # variabile di errore
     error = ""

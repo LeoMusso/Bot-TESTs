@@ -20,6 +20,35 @@ errBot = ErrorBot()
 ######################################################################################
 
 # COMANDO [/start, /hello, /ciao]
+@main_bot.message_handler(commands=["count"], func=lambda message: True)
+def send_total(message):
+    sys = Sistema()
+    api = InformatiAPI()
+    
+    path_manager = PathManager()
+    sys.ids = path_manager.get_json(path_manager.path_id_sviluppatori)
+
+    moderatore = False
+
+    if message.chat.id in sys.ids_moderatori.values():
+        moderatore = True
+
+    if sys.json_impostazioni["block"] == "on":
+        response = errBot.closed()
+        sys.set_last_message_user(message)
+        main_bot.send_message(message.chat.id, response, parse_mode='Markdown')
+    
+    elif message.from_user.id not in sys.ids["ids_tester"].values() and moderatore == False and sys.json_impostazioni["beta_test_test_bot"] == 'on':
+            response = errBot.no_tester()
+            main_bot.send_message(message.chat.id, response, parse_mode='Markdown')
+    else:
+        try:
+            res = api.get_count_user("5047798659")
+        except Exception as e:
+            sys.set_last_message_user(message)
+            errBot.sendErrors(main_bot, error_bot, e, message)
+
+# COMANDO ISCRITTI TOTALI PER L'EVENTO BECETTO
 @main_bot.message_handler(commands=["start", "hello", "ciao"], func=lambda message: True)
 def send_welcome(message):
     sys = Sistema()
@@ -58,7 +87,7 @@ def send_welcome(message):
         except Exception as e:
             sys.set_last_message_user(message)
             errBot.sendErrors(main_bot, error_bot, e, message)
-        
+
 # COMANDO PER I FUMAGAZZERS [/fumagazzi]
 @main_bot.message_handler(commands=["fumagazzi"], func=lambda message: True)
 def send_fumagazzi(message):
